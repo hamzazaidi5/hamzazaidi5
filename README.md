@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ali Hamza</h1>
 <h3 align="center">A passionate javascript lover & frontend engineer from Pakistan</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hamzazaidi5)](https://github.com/hamzazaidi5/github-profile-trophy)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzazaidi5&label=Profile%20views&color=0e75b6&style=flat" alt="hamzazaidi5" /> </p>
 
 - 🔭 I’m currently working on **Photobooth React**

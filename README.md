@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js,Three.js,Velocity.js**
 
-- 💬 Ask me about **React, Vue,Twi**
+- 💬 Ask me about **React, Vue
 
 - 📫 How to reach me **hamzaalisol05@gmail.com**
 

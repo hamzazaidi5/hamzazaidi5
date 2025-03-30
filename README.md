@@ -9,9 +9,8 @@
 
 - 🌱 I’m currently learning **Next.js,Three.js,Velocity.js**
 
-- 💬 Ask me about **.Net, Node, React, Vue
+- 💬 Ask me about **Python, Node, React, Vue
 
-- 📫 How to reach me **hamzaalisol05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
